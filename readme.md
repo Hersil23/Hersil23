@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hersil23&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hersil23&layout=donut&theme=tokyonight)
 
 ## 🚀 Proyecto Principal
 **[PaciGest Plus](https://pacigestplus.com)** - Sistema de gestión médica SaaS.
